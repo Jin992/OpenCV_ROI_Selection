@@ -1,0 +1,15 @@
+#Onvif params
+onvif_cam_ip=192.168.0.8
+onvif_cam_port=80
+onvif_cam_user=evg
+onvif_cam_pass=Fh1234567890
+#rtst params
+rtsp_link=rtsp://Evg:Fh16121992@192.168.0.8
+#Pan/Tilt params
+pan_range_min=0
+pan_range_max=355
+tilt_range_min=0
+tilt_range_max=90
+#Zoom params
+zoom_range_min=100
+zoom_range_max=31
